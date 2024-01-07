@@ -8,7 +8,7 @@ This addon for Blender allows you to apply a curvature filter to motion capture 
 2. Compress the `filter_blender` folder into a `.zip` file.
 3. Open Blender and go to `Edit > Preferences`.
 4. In the preferences window, select the `Add-ons` tab.
-5. Click on `Install...` and locate the `__init__.py` file you downloaded.
+5. Click on `Install...` and locate the `.zip` file you compressed.
 6. Once installed, make sure the addon is enabled by checking the box next to its name.
 
 ## Usage
